@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eb5891faf28aaa44b97d4f7b59719e9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Inria Sans Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c9ecadfb49ab9274daafa907e035ab9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
